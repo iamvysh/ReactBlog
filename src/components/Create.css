@@ -1,0 +1,18 @@
+.first{
+    height: 100vh;
+    width: 100%;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    flex-direction: column;
+
+    background-image: url(perfect-loop-cube.gif);
+    background-position:center;
+    background-size: cover;
+
+
+
+}
+.abc{
+    background-color: transparent;
+}

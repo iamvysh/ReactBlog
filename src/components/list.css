@@ -1,0 +1,30 @@
+.lists{
+    height: 100vh;
+    width: 100%;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    flex-direction: column;
+
+    background-image: url(giphy.gif);
+    background-position:center;
+    background-size: cover;
+
+
+}
+
+.head{
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-size: x-large;
+    font-style: inherit;
+    font-weight: 900;
+}
+.head2{
+    font-size: medium;
+    font-style: italic;
+    font-weight: 500;
+    color: blanchedalmond;
+}
+ul{
+    list-style: none;
+}

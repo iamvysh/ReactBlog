@@ -1,0 +1,26 @@
+.display{
+    height: 100vh;
+    width: 100%;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    flex-direction: column;
+
+    background-image: url(Figma-animation-1.gif);
+    background-position:center;
+    background-size: cover;
+
+}
+.heading1{
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-size: x-large;
+    font-style: inherit;
+    font-weight: 900;
+    color: rgb(105, 201, 9);
+}
+.heading2{
+    font-size: medium;
+    font-style: italic;
+    font-weight: 500;
+    color: blanchedalmond;
+}
